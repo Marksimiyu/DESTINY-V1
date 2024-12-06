@@ -1,6 +1,6 @@
 {
-  "name": "ALPHA-MD",
-  "description": "Alpha is a multidevice WhatsApp bot built to make your WhatsApp enjoyable.",
+  "name": "DESTINY V-1",
+  "description": Destiny v-1 is a multidevice WhatsApp bot built to make your WhatsApp enjoyable.",
   "keywords": [
     "bot",
     "node",
@@ -8,7 +8,7 @@
     "whatsapp"
   ],
   "logo": "https://telegra.ph/file/b148f6ed21fa02ac5325b.jpg",
-  "repository": "https://github.com/Keithkeizzah/ALPHA-MD1",
+  "repository": https://github.com/Marksimiyu/DESTINY-V1",
   "succes_url": "/",
   "stack": "container",
   "env": {
@@ -89,7 +89,7 @@
     },
     "OWNER_NAME": {
       "description": "Your name",
-      "value": "keithkeizzah",
+      "value": "Mark",
       "required": false
     },
     "AUTO_READ_MESSAGES": {

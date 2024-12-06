@@ -1,7 +1,7 @@
 
  {
-  "name": "ALPHA-MD",
-  "version": "2.0.0",
+  "name": "DESTINY V-1",
+  "version": "0.0.1",
   "description": "",
   "main": "index.js",
   "type": "commonjs",
@@ -16,12 +16,12 @@
   "keywords": [
     "bot",
     "Baileys",
-    "Alpha-Md",
+    "DESTINY V-1",
     "whatsapp",
     "whatsapp-bot",
-    "keithkeizzah"
+    "MARKSIMIYU"
    ],
-  "author": "keithkeizzah",
+  "author": "MARKSIMIYU",
 "license": "ISC",
   "dependencies": {
     "@adiwajshing/keyed-db": "^0.2.4",

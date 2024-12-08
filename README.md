@@ -25,7 +25,7 @@
 
   
 
-<a href="https://github.com/keithkeizzah/ALPHA-MD1/fork"><img src="https://img.shields.io/badge/CLICK%20HERE-purple" alt="FORK ALPHA" width="150"></a>
+<a href="Marksimiyu/DESTINY-V1"><img src="https://img.shields.io/badge/CLICK%20HERE-purple" alt="FORK ALPHA" width="150"></a>
 
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
@@ -38,7 +38,7 @@
 ###  𝐃𝐄𝐏𝐋𝐎𝐘 𝐎𝐍 𝐇𝐄𝐑𝐎𝐊𝐔:
 
 
- ***[![Tap to deploy on heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?button-url=https://github.com/keithkeizzah/ALPHA-MD1&template=https://github.com/keithkeizzah/ALPHA-MD1.git)***
+ ***[![Tap to deploy on heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?button-url=https:// Marksimiyu/DESTINY-V1-MD1&template=https://github.com/keithkeizzah/ALPHA-MD1.git)***
 
 <br>
 
